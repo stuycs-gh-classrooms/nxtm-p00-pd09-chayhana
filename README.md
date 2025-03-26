@@ -78,6 +78,7 @@ Drag force simulation will model fluid resistance, showing how objects decelerat
 Describe what your Custom force simulation will look like. Explain how it will be setup, and how it should behave while running.
 
 The custom electric force simulation will visualize electromagnetic interactions between charged particles. Users will be able to observe attraction and repulsion based on charge values, with the force strength directly related to the magnitude of the charges.
+
 --- 
 
 ### Simulation 5: Combination
