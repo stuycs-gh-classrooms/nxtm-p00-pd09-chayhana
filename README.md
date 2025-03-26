@@ -29,7 +29,7 @@ All projects will require the following:
 
 #### Custom Force: Electric Force
 
-### Forumla
+### Formula
 What is the formula for your force? Including descriptions/definitions for the symbols. (You may include a picture of the formula if it is not easily typed.)
 
 (K * q1 * q2)/r^2
@@ -37,7 +37,7 @@ K is Coulomb's constant (8.99 × 10^9)
 q1 and q2 are the two values of involved charges
 r is the distance between involved charges
 
-### Custom Force
+### Electrical Force (Custom)
 - What information that is already present in the `Orb` or `OrbNode` classes does this force use?
   - Distance
 
