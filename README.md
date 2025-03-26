@@ -56,33 +56,32 @@ r is the distance between involved charges
 --- 
 
 ### Simulation 1: Gravity
-Describe how you will attempt to simulate orbital motion.
+The gravity simulation will focus on orbital motion, demonstrating how celestial bodies interact through gravitational attraction. By varying initial velocities and masses, the simulation will showcase different orbital paths, from circular to elliptical trajectories.
 
 --- 
 
 ### Simulation 2: Spring
 Describe what your spring simulation will look like. Explain how it will be setup, and how it should behave while running.
 
-YOUR ANSWER HERE
+The spring force simulation will explore oscillatory motion, implementing Hooke's law to model spring behavior. Users will be able to observe how different spring constants affect object motion.
 
 --- 
 
 ### Simulation 3: Drag
 Describe what your drag simulation will look like. Explain how it will be setup, and how it should behave while running.
 
-YOUR ANSWER HERE
+Drag force simulation will model fluid resistance, showing how objects decelerate when moving through a fluid environment. By varying parameters such as fluid density and object shape, the simulation will provide insights into how drag affects object trajectories and movement.
 
 --- 
 
 ### Simulation 4: Custom force
 Describe what your Custom force simulation will look like. Explain how it will be setup, and how it should behave while running.
 
-YOUR ANSWER HERE
-
+The custom electric force simulation will visualize electromagnetic interactions between charged particles. Users will be able to observe attraction and repulsion based on charge values, with the force strength directly related to the magnitude of the charges.
 --- 
 
 ### Simulation 5: Combination
 Describe what your combination simulation will look like. Explain how it will be setup, and how it should behave while running.
 
-YOUR ANSWER HERE
+The combination simulation represents integrating gravity, spring, drag, and electric forces into a single, complex environment. This simulation will demonstrate how multiple forces can interact simultaneously, creating  behaviors that highlight the integration of all coded physical systems.
 
